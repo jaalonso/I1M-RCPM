@@ -3,21 +3,41 @@ estudian aplicaciones a distintas ramas de las matemáticas. A continuación se
 encuentran dichas aplicaciones clasificadas según las ramas.
 
 * Álgebra
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-9.html#sistema-de-decisi%C3%B3n-de-tautolog%C3%ADas][Demostrador proposicional]].
++ [[./Operaciones_conjuntistas_con_listas.hs][Operaciones conjuntistas con listas]].
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-17.html][Conjuntos]].
++ [[./Relaciones_binarias.hs][Relaciones binarias]].
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-21.html][Polinomios]].
++ [[./Division_y_factorizacion_de_polinomios_mediante_la_regla_de_Ruffini.hs][División y factorización de polinomios mediante la regla de Ruffini]].
+
+* Álgebra lineal
++ [[./Vectores_y_matrices.hs][Vectores y matrices]].
++ [[./Vectores_y_matrices_con_librerias.hs][Vectores y matrices con librerías]].
++ [[./Vectores_y_matrices_(Ejercicios_de_examenes).hs][Vectores y matrices. (Ejercicios de exámenes)]].
++ [[./Metodo_de_Gauss_para_triangularizar_matrices.hs][Método de Gauss para triangularizar matrices]].
 
 * Cálculo infinitesimal
++ Cálculo de límites de sucesiones.
++ Sumas de series.
 
 * Cálculo numérico
++ [[./Diferenciacion_numerica_y_metodos_de_Heron_y_de_Newton.hs][Diferenciación numérica y métodos de Herón y de Newton]].
++ [[./Diferenciacion_numerica_y_metodos_de_Heron_y_de_Newton_con_Maxima.mac][Diferenciación numérica y métodos de Herón y de Newton con Maxima]].
++ Resolución numérica de ecuaciones.
++ Integración numérica.
++ Interpolación.
 
 * Estadística
 + [[./Estadistica_descriptiva.hs][Estadística descriptiva]].
++ [[./Calculo_del_numero_pi_mediante_el_metodo_de_Montecarlo.hs][Cálculo del número pi mediante el método de Montecarlo]].
 
 * Geometría
-
-* Lógica
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-0.html][Dibujos geométricos con Codeworld]]
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-26.html][Fractales]].
 
 * Matemática discreta
-
-* Teoría de conjuntos
-
-* Teoría de números
-
++ [[./Combinatoria.hs][Combinatoria]].
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-22.html][Grafos]].
++ [[./Grafos_mediante_listas.hs][Grafos mediante listas]].
++ [[./Problemas_de_grafos.hs][Problemas de grafos]].
++ [[./Grafos_(Ejercicios_de_examenes).hs][Ejercicios de exámenes sobre grafos]].

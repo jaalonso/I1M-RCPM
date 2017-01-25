@@ -1,0 +1,697 @@
+
+./Combinatoria.hs,2806
+subconjunto subconjunto39,40
+subconjunto subconjunto40,41
+subconjunto' subconjunto'51,52
+subconjunto' subconjunto'52,53
+prop_equivalencia prop_equivalencia60,61
+prop_equivalencia prop_equivalencia61,62
+igualConjunto igualConjunto74,75
+igualConjunto igualConjunto75,76
+subconjuntos subconjuntos89,90
+subconjuntos subconjuntos90,91
+intercala intercala104,105
+intercala intercala105,106
+permutaciones permutaciones116,117
+permutaciones permutaciones117,118
+permutacionesN permutacionesN128,129
+permutacionesN permutacionesN129,130
+numeroPermutacionesN numeroPermutacionesN140,141
+numeroPermutacionesN numeroPermutacionesN141,142
+fact fact150,151
+fact fact151,152
+numeroPermutacionesN' numeroPermutacionesN'162,163
+numeroPermutacionesN' numeroPermutacionesN'163,164
+prop_numeroPermutacionesN prop_numeroPermutacionesN174,175
+prop_numeroPermutacionesN prop_numeroPermutacionesN175,176
+combinaciones combinaciones195,196
+combinaciones combinaciones196,197
+combinacionesN combinacionesN209,210
+combinacionesN combinacionesN210,211
+numeroCombinaciones numeroCombinaciones221,222
+numeroCombinaciones numeroCombinaciones222,223
+comb comb234,235
+comb comb235,236
+numeroCombinaciones' numeroCombinaciones'246,247
+numeroCombinaciones' numeroCombinaciones'247,248
+prop_numeroCombinaciones prop_numeroCombinaciones258,259
+prop_numeroCombinaciones prop_numeroCombinaciones259,260
+combinacionesR combinacionesR278,279
+combinacionesR combinacionesR279,280
+combinacionesRN combinacionesRN292,293
+combinacionesRN combinacionesRN293,294
+numeroCombinacionesR numeroCombinacionesR304,305
+numeroCombinacionesR numeroCombinacionesR305,306
+numeroCombinacionesR' numeroCombinacionesR'316,317
+numeroCombinacionesR' numeroCombinacionesR'317,318
+prop_numeroCombinacionesR prop_numeroCombinacionesR328,329
+prop_numeroCombinacionesR prop_numeroCombinacionesR329,330
+variaciones variaciones343,344
+variaciones variaciones344,345
+variacionesN variacionesN354,355
+variacionesN variacionesN355,356
+numeroVariaciones numeroVariaciones366,367
+numeroVariaciones numeroVariaciones367,368
+numeroVariaciones' numeroVariaciones'378,379
+numeroVariaciones' numeroVariaciones'379,380
+prop_numeroVariaciones prop_numeroVariaciones390,391
+prop_numeroVariaciones prop_numeroVariaciones391,392
+variacionesR variacionesR410,411
+variacionesR variacionesR411,412
+variacionesRN variacionesRN424,425
+variacionesRN variacionesRN425,426
+numeroVariacionesR numeroVariacionesR436,437
+numeroVariacionesR numeroVariacionesR437,438
+numeroVariacionesR' numeroVariacionesR'448,449
+numeroVariacionesR' numeroVariacionesR'449,450
+prop_numeroVariacionesR prop_numeroVariacionesR460,461
+prop_numeroVariacionesR prop_numeroVariacionesR461,462
+
+./Metodo_de_Gauss_para_triangularizar_matrices.hs,1946
+type Vector Vector28,29
+type Vector a a28,29
+type Matriz Matriz32,33
+listaMatriz listaMatriz48,49
+listaMatriz listaMatriz49,50
+separa separa60,61
+separa separa61,62
+matrizLista matrizLista76,77
+matrizLista matrizLista77,78
+numFilas numFilas87,88
+numFilas numFilas88,89
+numColumnas:numColumnas98,99
+numColumnas numColumnas99,100
+dimension dimension108,109
+dimension dimension109,110
+diagonalPral diagonalPral123,124
+diagonalPral diagonalPral124,125
+intercambiaFilas intercambiaFilas144,145
+intercambiaFilas intercambiaFilas145,146
+intercambiaColumnas intercambiaColumnas157,158
+intercambiaColumnas intercambiaColumnas158,159
+multFilaPor multFilaPor170,171
+multFilaPor multFilaPor171,172
+sumaFilaFila sumaFilaFila183,184
+sumaFilaFila sumaFilaFila184,185
+sumaFilaPor sumaFilaPor196,197
+sumaFilaPor sumaFilaPor197,198
+buscaIndiceDesde buscaIndiceDesde218,219
+buscaIndiceDesde buscaIndiceDesde219,220
+buscaPivoteDesde buscaPivoteDesde235,236
+buscaPivoteDesde buscaPivoteDesde236,237
+anuladaColumnaDesde anuladaColumnaDesde253,254
+anuladaColumnaDesde anuladaColumnaDesde254,255
+anulaEltoColumnaDesde anulaEltoColumnaDesde268,269
+anulaEltoColumnaDesde anulaEltoColumnaDesde270,271
+anulaColumnaDesde anulaColumnaDesde288,289
+anulaColumnaDesde anulaColumnaDesde290,291
+elementosNoNulosColDesde elementosNoNulosColDesde307,308
+elementosNoNulosColDesde elementosNoNulosColDesde308,309
+existeColNoNulaDesde existeColNoNulaDesde326,327
+existeColNoNulaDesde existeColNoNulaDesde327,328
+menorIndiceColNoNulaDesde menorIndiceColNoNulaDesde347,348
+menorIndiceColNoNulaDesde menorIndiceColNoNulaDesde349,350
+gaussAux gaussAux378,379
+gaussAux gaussAux379,380
+gauss gauss404,405
+gauss gauss405,406
+gaussCAux gaussCAux442,443
+gaussCAux gaussCAux444,445
+gaussC gaussC459,460
+gaussC gaussC460,461
+determinante determinante471,472
+determinante determinante472,473
+
+./Problemas_de_grafos.hs,2316
+g1, g2, g3, g4, g5, g6, g7, g8, g9, g10, g11 g1150,51
+g1, g2, g3, g4, g5, g6, g7, g8, g9, g10,g1050,51
+g1, g2, g3, g4, g5, g6, g7, g8, g9,g950,51
+g1, g2, g3, g4, g5, g6, g7, g8,g850,51
+g1, g2, g3, g4, g5, g6, g7,g750,51
+g1, g2, g3, g4, g5, g6,g650,51
+g1, g2, g3, g4, g5,g550,51
+g1, g2, g3, g4,g450,51
+g1, g2, g3,g350,51
+g1, g2,g250,51
+g1,g150,51
+g1 g151,52
+g2 g255,56
+g3 g358,59
+g4 g459,60
+g5 g560,61
+g6 g661,62
+g7 g762,63
+g8 g863,64
+g9 g965,66
+g10 g1066,67
+g11 g1167,68
+completo completo82,83
+completo completo83,84
+grafoCiclo grafoCiclo96,97
+grafoCiclo grafoCiclo97,98
+nVertices nVertices108,109
+nVertices nVertices109,110
+noDirigido noDirigido121,122
+noDirigido noDirigido122,123
+incidentes incidentes137,138
+incidentes incidentes138,139
+contiguos contiguos151,152
+contiguos contiguos152,153
+lazos lazos165,166
+lazos lazos166,167
+nLazos nLazos177,178
+nLazos nLazos178,179
+nAristas nAristas193,194
+nAristas nAristas194,195
+prop_nAristasCompleto prop_nAristasCompleto204,205
+prop_nAristasCompleto prop_nAristasCompleto205,206
+gradoPos gradoPos222,223
+gradoPos gradoPos223,224
+gradoNeg gradoNeg236,237
+gradoNeg gradoNeg237,238
+grado grado258,259
+grado grado259,260
+prop_sumaGrados:prop_sumaGrados268,269
+prop_sumaGrados prop_sumaGrados269,270
+prop_apretonManos:prop_apretonManos283,284
+prop_apretonManos prop_apretonManos284,285
+prop_numNodosGradoImpar prop_numNodosGradoImpar295,296
+prop_numNodosGradoImpar prop_numNodosGradoImpar296,297
+prop_GradoCompleto prop_GradoCompleto310,311
+prop_GradoCompleto prop_GradoCompleto311,312
+regular regular328,329
+regular regular329,330
+prop_CompletoRegular prop_CompletoRegular340,341
+prop_CompletoRegular prop_CompletoRegular341,342
+regularidad regularidad359,360
+regularidad regularidad360,361
+prop_completoRegular prop_completoRegular372,373
+prop_completoRegular prop_completoRegular373,374
+prop_cicloRegular prop_cicloRegular389,390
+prop_cicloRegular prop_cicloRegular390,391
+generaGND generaGND408,409
+generaGND generaGND409,410
+generaGD generaGD424,425
+generaGD generaGD425,426
+genGD genGD435,436
+genGD genGD436,437
+genGND genGND445,446
+genGND genGND446,447
+genG genG455,456
+genG genG456,457
+instance instance464,465
+
+./Vectores_y_matrices_con_librerias.hs,2588
+listaVector listaVector49,50
+listaVector listaVector50,51
+listaMatriz listaMatriz62,63
+listaMatriz listaMatriz63,64
+numFilas numFilas73,74
+numFilas numFilas74,75
+numColumnas:numColumnas84,85
+numColumnas numColumnas85,86
+dimension dimension94,95
+dimension dimension95,96
+matrizLista matrizLista110,111
+matrizLista matrizLista111,112
+vectorLista vectorLista125,126
+vectorLista vectorLista126,127
+sumaMatrices:sumaMatrices144,145
+sumaMatrices sumaMatrices145,146
+filaMat filaMat159,160
+filaMat filaMat160,161
+columnaMat columnaMat174,175
+columnaMat columnaMat175,176
+prodEscalar prodEscalar191,192
+prodEscalar prodEscalar192,193
+prodMatrices:prodMatrices209,210
+prodMatrices prodMatrices210,211
+traspuesta traspuesta227,228
+traspuesta traspuesta228,229
+esCuadrada esCuadrada243,244
+esCuadrada esCuadrada244,245
+esSimetrica esSimetrica259,260
+esSimetrica esSimetrica260,261
+diagonalPral diagonalPral276,277
+diagonalPral diagonalPral277,278
+diagonalSec diagonalSec294,295
+diagonalSec diagonalSec295,296
+submatriz submatriz312,313
+submatriz submatriz313,314
+intercambiaFilas intercambiaFilas331,332
+intercambiaFilas intercambiaFilas332,333
+intercambiaColumnas intercambiaColumnas346,347
+intercambiaColumnas intercambiaColumnas347,348
+multFilaPor multFilaPor361,362
+multFilaPor multFilaPor362,363
+sumaFilaFila sumaFilaFila376,377
+sumaFilaFila sumaFilaFila377,378
+sumaFilaPor sumaFilaPor391,392
+sumaFilaPor sumaFilaPor392,393
+buscaIndiceDesde buscaIndiceDesde413,414
+buscaIndiceDesde buscaIndiceDesde414,415
+buscaPivoteDesde buscaPivoteDesde430,431
+buscaPivoteDesde buscaPivoteDesde431,432
+anuladaColumnaDesde anuladaColumnaDesde448,449
+anuladaColumnaDesde anuladaColumnaDesde449,450
+anulaEltoColumnaDesde anulaEltoColumnaDesde463,464
+anulaEltoColumnaDesde anulaEltoColumnaDesde465,466
+anulaColumnaDesde anulaColumnaDesde483,484
+anulaColumnaDesde anulaColumnaDesde485,486
+elementosNoNulosColDesde elementosNoNulosColDesde502,503
+elementosNoNulosColDesde elementosNoNulosColDesde503,504
+existeColNoNulaDesde existeColNoNulaDesde521,522
+existeColNoNulaDesde existeColNoNulaDesde522,523
+menorIndiceColNoNulaDesde menorIndiceColNoNulaDesde542,543
+menorIndiceColNoNulaDesde menorIndiceColNoNulaDesde544,545
+gaussAux gaussAux575,576
+gaussAux gaussAux576,577
+gauss gauss600,601
+gauss gauss601,602
+gaussCAux gaussCAux637,638
+gaussCAux gaussCAux639,640
+gaussC gaussC654,655
+gaussC gaussC655,656
+determinante determinante666,667
+determinante determinante667,668
+
+./Grafos_mediante_listas.hs,643
+module Rel_35Rel_3520,21
+data Orientacion Orientacion45,46
+data Orientacion = D D45,46
+data Orientacion = D | NDND45,46
+data Grafo Grafo49,50
+data Grafo v p = G G49,50
+creaGrafo creaGrafo71,72
+creaGrafo creaGrafo73,74
+ejGrafoND ejGrafoND98,99
+ejGrafoND ejGrafoND99,100
+ejGrafoD ejGrafoD115,116
+ejGrafoD ejGrafoD116,117
+dirigido dirigido129,130
+dirigido dirigido130,131
+nodos nodos141,142
+nodos nodos142,143
+adyacentes adyacentes153,154
+adyacentes adyacentes154,155
+aristaEn aristaEn167,168
+aristaEn aristaEn168,169
+peso peso179,180
+peso peso180,181
+aristas aristas195,196
+aristas aristas196,197
+
+./Operaciones_conjuntistas_con_listas.hs,2080
+subconjunto subconjunto21,22
+subconjunto subconjunto22,23
+subconjuntoR subconjuntoR34,35
+subconjuntoR subconjuntoR35,36
+prop_subconjuntoR prop_subconjuntoR43,44
+prop_subconjuntoR prop_subconjuntoR44,45
+subconjuntoA subconjuntoA57,58
+subconjuntoA subconjuntoA58,59
+prop_subconjuntoA prop_subconjuntoA66,67
+prop_subconjuntoA prop_subconjuntoA67,68
+iguales iguales82,83
+iguales iguales83,84
+union union93,94
+union union94,95
+unionR unionR104,105
+unionR unionR105,106
+prop_union prop_union113,114
+prop_union prop_union114,115
+prop_union_conmutativa prop_union_conmutativa129,130
+prop_union_conmutativa prop_union_conmutativa130,131
+interseccion interseccion143,144
+interseccion interseccion144,145
+interseccionR interseccionR155,156
+interseccionR interseccionR156,157
+prop_interseccion prop_interseccion164,165
+prop_interseccion prop_interseccion165,166
+prop_union_interseccion prop_union_interseccion177,178
+prop_union_interseccion prop_union_interseccion178,179
+diferencia diferencia192,193
+diferencia diferencia193,194
+diferenciaR diferenciaR205,206
+diferenciaR diferenciaR206,207
+prop_diferencia prop_diferencia214,215
+prop_diferencia prop_diferencia215,216
+prop_diferencia_conmutativa prop_diferencia_conmutativa224,225
+prop_diferencia_conmutativa prop_diferencia_conmutativa225,226
+prop_diferencia_subconjunto prop_diferencia_subconjunto235,236
+prop_diferencia_subconjunto prop_diferencia_subconjunto236,237
+prop_diferencia_interseccion prop_diferencia_interseccion246,247
+prop_diferencia_interseccion prop_diferencia_interseccion247,248
+producto producto259,260
+producto producto260,261
+productoR productoR270,271
+productoR productoR271,272
+prop_producto prop_producto279,280
+prop_producto prop_producto280,281
+prop_elementos_producto prop_elementos_producto291,292
+prop_elementos_producto prop_elementos_producto292,293
+subconjuntos subconjuntos308,309
+subconjuntos subconjuntos309,310
+prop_subconjuntos prop_subconjuntos321,322
+prop_subconjuntos prop_subconjuntos322,323
+
+./Vectores_y_matrices.hs,1453
+type Vector Vector26,27
+type Vector a a26,27
+type Matriz Matriz30,31
+listaVector listaVector45,46
+listaVector listaVector46,47
+listaMatriz listaMatriz58,59
+listaMatriz listaMatriz59,60
+numFilas numFilas69,70
+numFilas numFilas70,71
+numColumnas:numColumnas80,81
+numColumnas numColumnas81,82
+dimension dimension90,91
+dimension dimension91,92
+separa separa102,103
+separa separa103,104
+matrizLista matrizLista118,119
+matrizLista matrizLista119,120
+vectorLista vectorLista133,134
+vectorLista vectorLista134,135
+sumaMatrices:sumaMatrices151,152
+sumaMatrices sumaMatrices152,153
+filaMat filaMat166,167
+filaMat filaMat167,168
+columnaMat columnaMat181,182
+columnaMat columnaMat182,183
+prodEscalar prodEscalar198,199
+prodEscalar prodEscalar199,200
+prodMatrices:prodMatrices218,219
+prodMatrices prodMatrices219,220
+identidad identidad235,236
+identidad identidad236,237
+q q256,257
+q q257,258
+potencia potencia259,260
+potencia potencia260,261
+traspuesta traspuesta279,280
+traspuesta traspuesta280,281
+esCuadrada esCuadrada299,300
+esCuadrada esCuadrada300,301
+esSimetrica esSimetrica315,316
+esSimetrica esSimetrica316,317
+diagonalPral diagonalPral334,335
+diagonalPral diagonalPral335,336
+diagonalSec diagonalSec354,355
+diagonalSec diagonalSec355,356
+submatriz submatriz373,374
+submatriz submatriz374,375
+determinante:determinante393,394
+determinante determinante394,395
+
+./Diferenciacion_numerica_y_metodos_de_Heron_y_de_Newton.hs,1535
+derivada derivada35,36
+derivada derivada36,37
+derivadaBurda derivadaBurda56,57
+derivadaBurda derivadaBurda57,58
+derivadaFina derivadaFina59,60
+derivadaFina derivadaFina60,61
+derivadaSuper derivadaSuper62,63
+derivadaSuper derivadaSuper63,64
+derivadaFinaDelSeno derivadaFinaDelSeno73,74
+derivadaFinaDelSeno derivadaFinaDelSeno74,75
+raiz raiz99,100
+raiz raiz100,101
+infix infix110,111
+(~(111,112
+(~=~=111,112
+x x112,113
+prop_raiz prop_raiz121,122
+prop_raiz prop_raiz122,123
+until' until'138,139
+until' until'139,140
+raizI raizI149,150
+raizI raizI150,151
+prop_raizI prop_raizI159,160
+prop_raizI prop_raizI160,161
+puntoCero puntoCero187,188
+puntoCero puntoCero188,189
+puntoCeroI puntoCeroI198,199
+puntoCeroI puntoCeroI199,200
+raizCuadrada raizCuadrada215,216
+raizCuadrada raizCuadrada216,217
+prop_raizCuadrada prop_raizCuadrada225,226
+prop_raizCuadrada prop_raizCuadrada226,227
+raizCubica raizCubica239,240
+raizCubica raizCubica240,241
+prop_raizCubica prop_raizCubica249,250
+prop_raizCubica prop_raizCubica250,251
+arcoseno arcoseno263,264
+arcoseno arcoseno264,265
+prop_arcoseno prop_arcoseno273,274
+prop_arcoseno prop_arcoseno274,275
+arcocoseno arcocoseno287,288
+arcocoseno arcocoseno288,289
+prop_arcocoseno prop_arcocoseno297,298
+prop_arcocoseno prop_arcocoseno298,299
+inversa inversa312,313
+inversa inversa313,314
+raizCuadrada' raizCuadrada'320,321
+raizCubica' raizCubica'321,322
+arcoseno' arcoseno'322,323
+arcocoseno' arcocoseno'323,324
+
+./Calculo_del_numero_pi_mediante_el_metodo_de_Montecarlo.hs,346
+aleatorio aleatorio33,34
+aleatorio aleatorio34,35
+aleatorios aleatorios48,49
+aleatorios aleatorios49,50
+puntosDelCuadrado puntosDelCuadrado62,63
+puntosDelCuadrado puntosDelCuadrado63,64
+puntosEnElCirculo puntosEnElCirculo74,75
+puntosEnElCirculo puntosEnElCirculo75,76
+calculoDePi calculoDePi91,92
+calculoDePi calculoDePi92,93
+
+./Relaciones_binarias.hs,1567
+type Rel Rel40,41
+type Rel a a40,41
+r1, r2, r3 r350,51
+r1, r2,r250,51
+r1,r150,51
+r1 r151,52
+r2 r252,53
+r3 r353,54
+universo universo62,63
+universo universo63,64
+grafo grafo72,73
+grafo grafo73,74
+reflexiva reflexiva86,87
+reflexiva reflexiva87,88
+simetrica simetrica102,103
+simetrica simetrica103,104
+subconjunto subconjunto114,115
+subconjunto subconjunto115,116
+composicion composicion131,132
+composicion composicion132,133
+transitiva transitiva145,146
+transitiva transitiva146,147
+esEquivalencia esEquivalencia164,165
+esEquivalencia esEquivalencia165,166
+irreflexiva irreflexiva179,180
+irreflexiva irreflexiva180,181
+antisimetrica antisimetrica193,194
+antisimetrica antisimetrica194,195
+total total207,208
+total total208,209
+prop_total_reflexiva prop_total_reflexiva215,216
+prop_total_reflexiva prop_total_reflexiva216,217
+clausuraReflexiva clausuraReflexiva233,234
+clausuraReflexiva clausuraReflexiva234,235
+prop_ClausuraReflexiva prop_ClausuraReflexiva241,242
+prop_ClausuraReflexiva prop_ClausuraReflexiva242,243
+clausuraSimetrica clausuraSimetrica255,256
+clausuraSimetrica clausuraSimetrica256,257
+prop_ClausuraSimetrica prop_ClausuraSimetrica263,264
+prop_ClausuraSimetrica prop_ClausuraSimetrica264,265
+clausuraTransitiva clausuraTransitiva277,278
+clausuraTransitiva clausuraTransitiva278,279
+prop_ClausuraTransitiva prop_ClausuraTransitiva285,286
+prop_ClausuraTransitiva prop_ClausuraTransitiva286,287
+genRel genRel307,308
+genRel genRel308,309
+instance instance312,313
+
+./Division_y_factorizacion_de_polinomios_mediante_la_regla_de_Ruffini.hs,919
+ejPol4 ejPol445,46
+ejPol4 ejPol446,47
+divisores divisores59,60
+divisores divisores60,61
+coeficiente coeficiente73,74
+coeficiente coeficiente74,75
+terminoIndep terminoIndep86,87
+terminoIndep terminoIndep87,88
+coeficientes coeficientes99,100
+coeficientes coeficientes100,101
+creaPol creaPol111,112
+creaPol creaPol112,113
+prop_coef:prop_coef121,122
+prop_coef prop_coef122,123
+pRuffini pRuffini143,144
+pRuffini pRuffini144,145
+cocienteRuffini:cocienteRuffini156,157
+cocienteRuffini cocienteRuffini157,158
+restoRuffini:restoRuffini169,170
+restoRuffini restoRuffini170,171
+prop_diviEuclidea:prop_diviEuclidea179,180
+prop_diviEuclidea prop_diviEuclidea180,181
+esRaizRuffini esRaizRuffini195,196
+esRaizRuffini esRaizRuffini196,197
+raicesRuffini raicesRuffini210,211
+raicesRuffini raicesRuffini211,212
+factorizacion factorizacion223,224
+factorizacion factorizacion224,225
+
+./Grafos_(Ejercicios_de_examenes).hs,677
+recorridos recorridos53,54
+recorridos recorridos54,55
+grafo2 grafo276,77
+grafo2 grafo277,78
+anchura anchura82,83
+anchura anchura83,84
+conjetura conjetura91,92
+conjetura conjetura92,93
+conexo conexo109,110
+conexo conexo110,111
+mapa mapa143,144
+mapa mapa144,145
+data Color Color148,149
+data Color = A A148,149
+data Color = A | B B148,149
+data Color = A | B | C C148,149
+data Color = A | B | C | E E148,149
+correcta correcta150,151
+correcta correcta151,152
+grafo5 grafo5171,172
+aislados aislados174,175
+aislados aislados175,176
+grafo6 grafo6195,196
+grafo6 grafo6196,197
+conectados conectados199,200
+conectados conectados200,201
+
+./Vectores_y_matrices_(Ejercicios_de_examenes).hs,2924
+type Vector Vector22,23
+type Vector a a22,23
+type Matriz Matriz23,24
+esTriangularS:esTriangularS36,37
+esTriangularS esTriangularS37,38
+q q57,58
+q q58,59
+potencia potencia60,61
+potencia potencia61,62
+indicesMaximo indicesMaximo72,73
+indicesMaximo indicesMaximo73,74
+antidiagonal antidiagonal91,92
+antidiagonal antidiagonal92,93
+posiciones posiciones111,112
+posiciones posiciones112,113
+esEscalar:esEscalar125,126
+esEscalar esEscalar126,127
+determinante:determinante141,142
+determinante determinante142,143
+aplicaT aplicaT160,161
+aplicaT aplicaT161,162
+matrizCreciente matrizCreciente180,181
+matrizCreciente matrizCreciente181,182
+transformada transformada208,209
+transformada transformada209,210
+vectorEstocastico vectorEstocastico223,224
+vectorEstocastico vectorEstocastico224,225
+matrizEstocastica matrizEstocastica238,239
+matrizEstocastica matrizEstocastica239,240
+maximaSuma maximaSuma263,264
+maximaSuma maximaSuma264,265
+maximos maximos281,282
+maximos maximos282,283
+opMatriz opMatriz309,310
+opMatriz opMatriz311,312
+algunMenor algunMenor326,327
+algunMenor algunMenor327,328
+esAutovector esAutovector345,346
+esAutovector esAutovector346,347
+autovalorAsociado autovalorAsociado361,362
+autovalorAsociado autovalorAsociado363,364
+borraCols borraCols380,381
+borraCols borraCols381,382
+cambiaM cambiaM395,396
+cambiaM cambiaM396,397
+quitaRepetidosFila quitaRepetidosFila419,420
+quitaRepetidosFila quitaRepetidosFila420,421
+sumaVecinos sumaVecinos434,435
+sumaVecinos sumaVecinos435,436
+ampliaColumnas ampliaColumnas456,457
+ampliaColumnas ampliaColumnas457,458
+ejM1, ejM2 ejM2482,483
+ejM1,ejM1482,483
+ejM1 ejM1483,484
+ejM2 ejM2489,490
+esBisimetrica esBisimetrica493,494
+esBisimetrica esBisimetrica494,495
+matrizPorBloques matrizPorBloques515,516
+matrizPorBloques matrizPorBloques517,518
+sumaColumnas sumaColumnas535,536
+sumaColumnas sumaColumnas536,537
+p1, p2, p3 p3565,566
+p1, p2,p2565,566
+p1,p1565,566
+p1 p1566,567
+p2 p2567,568
+p3 p3569,570
+esPiramidal esPiramidal573,574
+esPiramidal esPiramidal574,575
+matriz1 matriz1620,621
+matriz1 matriz1621,622
+matriz2 matriz2627,628
+matriz2 matriz2628,629
+iteracion_jacobi iteracion_jacobi634,635
+iteracion_jacobi iteracion_jacobi635,636
+creaTridiagonal creaTridiagonal669,670
+creaTridiagonal creaTridiagonal670,671
+esTridiagonal esTridiagonal681,682
+esTridiagonal esTridiagonal682,683
+vandermonde vandermonde706,707
+vandermonde vandermonde707,708
+ej1, ej2 ej2737,738
+ej1,ej1737,738
+ej1 ej1738,739
+ej2 ej2742,743
+esMonomial esMonomial747,748
+esMonomial esMonomial748,749
+esListaMonomial esListaMonomial755,756
+esListaMonomial esListaMonomial756,757
+matrizPascal matrizPascal796,797
+matrizPascal matrizPascal797,798
+ternasPrimasOrden ternasPrimasOrden825,826
+ternasPrimasOrden ternasPrimasOrden826,827
+
+./Estadistica_descriptiva.hs,699
+media media39,40
+media media40,41
+mediana mediana58,59
+mediana mediana59,60
+prop_mediana prop_mediana69,70
+prop_mediana prop_mediana70,71
+frecuencias frecuencias84,85
+frecuencias frecuencias85,86
+modas modas98,99
+modas modas99,100
+mediaGeometrica mediaGeometrica113,114
+mediaGeometrica mediaGeometrica114,115
+prop_mediaGeometrica prop_mediaGeometrica123,124
+prop_mediaGeometrica prop_mediaGeometrica124,125
+rango rango142,143
+rango rango143,144
+desviacionMedia desviacionMedia163,164
+desviacionMedia desviacionMedia164,165
+varianza varianza181,182
+varianza varianza182,183
+desviacionTipica desviacionTipica196,197
+desviacionTipica desviacionTipica197,198
