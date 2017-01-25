@@ -9,7 +9,7 @@ encuentran dichas aplicaciones clasificadas según las ramas.
 * Cálculo numérico
 
 * Estadística
-+ [[./Estadistica_desriptiva.hs][Estadística descriptiva]].
++ [[./Estadistica_descriptiva.hs][Estadística descriptiva]].
 
 * Geometría
 
