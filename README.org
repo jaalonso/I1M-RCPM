@@ -41,3 +41,36 @@ encuentran dichas aplicaciones clasificadas según las ramas.
 + [[./Grafos_mediante_listas.hs][Grafos mediante listas]].
 + [[./Problemas_de_grafos.hs][Problemas de grafos]].
 + [[./Grafos_(Ejercicios_de_examenes).hs][Ejercicios de exámenes sobre grafos]].
+
+* Algoritmos matemáticos
+
+En los temas y relaciones de ejercicios se han estudiado los siguientes algoritmos
+matemáticos:
+
++ [[./AlgoritmosMatematicos/OrdenacionRapida.hs][Ordenación rápida]]. (Tema 1)
++ [[./AlgoritmosMatematicos/RaicesEcuacionCuadratica.hs][Raices de la ecuación de 2º grado]]. (Relación 3)
++ [[./AlgoritmosMatematicos/VolumenEsfera.hs][Volumen de una esfera]]. (Relación 4)
++ [[./AlgoritmosMatematicos/AreaDeCoronaCircular.hs][Área de una corona circular]]. (Relación 4)
++ [[./AlgoritmosMatematicos/ModuloVector.hs][Módulo de un vector]]. (Relación 4)
++ [[./AlgoritmosMatematicos/FormulaDeHeron.hs][Área de un triángulo mediante la fórmula de Herón]]. (Relación 4)
++ [[./AlgoritmosMatematicos/Factores.hs][Cálculo de los factores de un número]]. (Tema 5)
++ [[./AlgoritmosMatematicos/Primo.hs][Verificación si un número es primo]]. (Tema 5)
++ [[./AlgoritmosMatematicos/Primos.hs][Lista de primeros primos]]. (Tema 5)
++ [[./AlgoritmosMatematicos/TernasPitagoricas.hs][Ternas pitagóricas]]. (Relación 5)
++ [[./AlgoritmosMatematicos/NumerosPerfectos.hs][Números perfectos]]. (Relación 5)
++ [[./AlgoritmosMatematicos/ProductoCartesiano.hs][Producto cartesiano]]. (Relación 5)
++ [[./AlgoritmosMatematicos/ProductoEscalar.hs][Producto escalar de dos vectores]]. (Relación 5)
++ [[./AlgoritmosMatematicos/NumeroE.hs][Cálculo del valor aproximado del número e]]. (Relación 6)
++ [[./AlgoritmosMatematicos/LimiteSenx.hs][Cálculo del límite de sen(x)/x cuando x tiende a cero]]. (Relación 6)
++ [[./AlgoritmosMatematicos/OrdenacionPorInsercion.hs][Ordenación por inserción]]. (Tema 6)
++ [[./AlgoritmosMatematicos/OrdenacionPorMezcla.hs][Ordenación por mezcla]]. (Relación 8)
++ [[,/Euclides.hs][Algoritmo de Euclides del máximo común divisor]] (Relación 8)
++ [[./AlgoritmosMatematicos/Cifras.hs][Cifras de un número]]. (Relación 9)
++ [[./AlgoritmosMatematicos/Factorizacion.hs][Factorización de un número]]. (Relación 9)
++ [[./AlgoritmosMatematicos/CambioDeBase.hs][Cambios de base: decimal y binaria]]. (Tema 7)
++ [[./AlgoritmosMatematicos/Bezout.hs][La identidad de Bezout]]. (Relación 12)
++ [[./AlgoritmosMatematicos/Limite.hs][Límite de sucesiones]]. (Relación 16)
++ [[./AlgoritmosMatematicos/Derivadas.hs][Diferenciación numérica]]. (Relación 19)
++ [[./AlgoritmosMatematicos/RaizCuadrada.hs][Cálculo de la raíz cuadrada mediante el método de Herón]]. (Relación 19)
++ [[./AlgoritmosMatematicos/Newton.hs][Cálculo de los ceros de una función por el método de Newton]]. (Relación 19)
++ [[./AlgoritmosMatematicos/Traspuesta.hs][Traspuesta de una matriz]]. (Relación 20)

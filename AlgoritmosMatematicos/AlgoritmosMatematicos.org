@@ -1,0 +1,36 @@
+AlgoritmosMatematicos.org
+Algoritmos matemáticos habituales.
+José A. Alonso Jiménez <jalonso@us.es>
+Sevilla, 3 de Abril de 2011
+=============================================================================
+
+Esta página es una recopilación de los algoritmos matemáticos habituales
+estudiado en el curso de Informática de 1º del Grado en Matemáticas.
+
++ [[./OrdenacionRapida.hs][Ordenación rápida]]. (Tema 1)
++ [[./RaicesEcuacionCuadratica.hs][Raices de la ecuación de 2º grado]]. (Relación 3)
++ [[./VolumenEsfera.hs][Volumen de una esfera]]. (Relación 4)
++ [[./AreaDeCoronaCircular.hs][Área de una corona circular]]. (Relación 4)
++ [[./ModuloVector.hs][Módulo de un vector]]. (Relación 4)
++ [[./FormulaDeHeron.hs][Área de un triángulo mediante la fórmula de Herón]]. (Relación 4)
++ [[./Factores.hs][Cálculo de los factores de un número]]. (Tema 5)
++ [[./Primo.hs][Verificación si un número es primo]]. (Tema 5)
++ [[./Primos.hs][Lista de primeros primos]]. (Tema 5)
++ [[./TernasPitagoricas.hs][Ternas pitagóricas]]. (Relación 5)
++ [[./NumerosPerfectos.hs][Números perfectos]]. (Relación 5)
++ [[./ProductoCartesiano.hs][Producto cartesiano]]. (Relación 5)
++ [[./ProductoEscalar.hs][Producto escalar de dos vectores]]. (Relación 5)
++ [[./NumeroE.hs][Cálculo del valor aproximado del número e]]. (Relación 6)
++ [[./LimiteSenx.hs][Cálculo del límite de sen(x)/x cuando x tiende a cero]]. (Relación 6)
++ [[./OrdenacionPorInsercion.hs][Ordenación por inserción]]. (Tema 6)
++ [[./OrdenacionPorMezcla.hs][Ordenación por mezcla]]. (Relación 8)
++ [[,/Euclides.hs][Algoritmo de Euclides del máximo común divisor]] (Relación 8)
++ [[./Cifras.hs][Cifras de un número]]. (Relación 9)
++ [[./Factorizacion.hs][Factorización de un número]]. (Relación 9)
++ [[./CambioDeBase.hs][Cambios de base: decimal y binaria]]. (Tema 7)
++ [[./Bezout.hs][La identidad de Bezout]]. (Relación 12)
++ [[./Limite.hs][Límite de sucesiones]]. (Relación 16)
++ [[./Derivadas.hs][Diferenciación numérica]]. (Relación 19)
++ [[./RaizCuadrada.hs][Cálculo de la raíz cuadrada mediante el método de Herón]]. (Relación 19)
++ [[./Newton.hs][Cálculo de los ceros de una función por el método de Newton]]. (Relación 19)
++ [[./Traspuesta.hs][Traspuesta de una matriz]]. (Relación 20)
