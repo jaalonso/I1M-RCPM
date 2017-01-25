@@ -1,0 +1,23 @@
+A lo largo del curso de [[https://www.cs.us.es/~jalonso/cursos/i1m][Informática (de 1º del Grado en Matemáticas)]] se
+estudian aplicaciones a distintas ramas de las matemáticas. A continuación se
+encuentran dichas aplicaciones clasificadas según las ramas.
+
+* Álgebra
+
+* Cálculo infinitesimal
+
+* Cálculo numérico
+
+* Estadística
++ [[./Estadistica_desriptiva.hs][Estadística descriptiva]].
+
+* Geometría
+
+* Lógica
+
+* Matemática discreta
+
+* Teoría de conjuntos
+
+* Teoría de números
+
