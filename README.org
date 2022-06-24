@@ -1,7 +1,7 @@
 A lo largo del curso de [[https://www.cs.us.es/~jalonso/cursos/i1m][Informática (de 1º del Grado en Matemáticas)]] se
 estudian aplicaciones a distintas ramas de las matemáticas. A continuación se
 encuentran dichas aplicaciones clasificadas según las ramas.
-
+ 
 * Álgebra
 + [[https://www.cs.us.es/~jalonso/cursos/i1m/temas/tema-9.html#sistema-de-decisi%C3%B3n-de-tautolog%C3%ADas][Demostrador proposicional]].
 + [[./Operaciones_conjuntistas_con_listas.hs][Operaciones conjuntistas con listas]].
